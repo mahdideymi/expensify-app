@@ -11,4 +11,3 @@ const Header = () => (
 );
 
 export default Header;
-// <NavLink to="/edit" activeClassName="is-active">Edit | </NavLink>
